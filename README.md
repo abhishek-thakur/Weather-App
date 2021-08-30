@@ -2,7 +2,7 @@
 
 To Run the project First-a-fall you will need valid api key from 
 "https://home.openweathermap.org/api_keys"
-after storing valid key value in common.js file to apiKey on line number 2 of common.js
+after storing valid key value in common.js file in apiKey variable on line number 2 of common.js
 
 Now open the index.html file in browser
 
